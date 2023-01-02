@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "FirebaseAuth",
-    "slug": "FirebaseAuth",
+    "slug": "awesomeproject",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a9db7971-f09f-4fba-b8c6-e8a888a4fe0c"
+      }
+    },
+    "owner": "saralsy7"
   }
 }
